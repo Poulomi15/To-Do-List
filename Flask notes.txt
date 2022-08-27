@@ -1,0 +1,23 @@
+Flask is used to create Python framework to create web application.It is also used 
+for developing web application.
+Most common application of Python framework is Flask and django.
+
+so now what is framework?
+
+Framework is a collection of packages or modules that allow developers 
+to write Web applications or services. With it, developers don't need to handle
+ low-level details like protocols, 
+sockets or process/thread management.
+
+Firstly we have to know that we must have Python in your desktop 
+
+Then we have to install virtualenv
+
+To install flask we have to pip some modules like that 
+pip install flask
+
+to create a env file we have to write in the powershell virtualenv env
+if this syntax gives error then we must write Set-ExecutionPolicy unrestricted
+
+For port change we have write under if function port =any number 
+
